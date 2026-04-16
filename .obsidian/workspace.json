@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "12839ff18b416832",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d46e32b203cbbd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e960510210e1d6c7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "40770c9964f12324",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb39ea29785c412b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a56a54f4a72921c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a0b90fbc1521a837",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "db0ea2c36ac68e09",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a430f27c0c239826",
+    "type": "split",
+    "children": [
+      {
+        "id": "68618213b3edfdd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5090a3ca16001c42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "23df6c27f4d9503b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "114b43f7c4393f47",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a3daa7bf4d975cf3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4f8a638febc8c19d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e960510210e1d6c7",
+  "lastOpenFiles": [
+    "output/query-2026-04-16-ai-science-tools.md",
+    "output/technical-walkthrough.md",
+    "output/medium-blog-llm-wiki-concept.md",
+    "wiki/token-optimization/best-practices-cost-savings.md",
+    "wiki/token-optimization/autocompressors-summary-vectors.md",
+    "wiki/token-optimization/llmlingua2-task-agnostic.md",
+    "wiki/token-optimization/longllmlingua-long-context.md",
+    "wiki/token-optimization/llmlingua-prompt-compression.md",
+    "wiki/token-optimization/prompt-caching-overview.md",
+    "wiki/token-optimization/_index.md",
+    "wiki/token-optimization",
+    "ai-research/token-optimization-techniques-overview.md",
+    "ai-research/autocompressors-paper.md",
+    "ai-research/llmlingua2-paper.md",
+    "ai-research/longllmlingua-paper.md",
+    "ai-research/llmlingua-github-repo.md",
+    "ai-research/openai-prompt-caching.md",
+    "ai-research/anthropic-prompt-caching.md",
+    "ai-research/llmlingua-microsoft-research.md",
+    "wiki/ai-science/sds-964-in-case-you-missed-it-in-january-2026.md",
+    "wiki/ai-science/_index.md",
+    "wiki/_master-index.md",
+    "wiki/people/sinan-ozdemir.md",
+    "wiki/people/dr-vijoy-pandey.md",
+    "wiki/people/chris-fregly.md",
+    "wiki/people/amazon-agi-labs-antje-barth.md",
+    "Welcome.md",
+    "output",
+    "wiki/tools",
+    "wiki/research",
+    "wiki/people",
+    "wiki/concepts/people",
+    "wiki/concepts",
+    "wiki",
+    "raw/podcasts_AI/PT907-Transcript.pdf",
+    "raw/podcasts_AI/PT908-Transcript.pdf"
+  ]
+}
