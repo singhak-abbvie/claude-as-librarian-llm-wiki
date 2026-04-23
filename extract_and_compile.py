@@ -1,6 +1,3 @@
-"""
-Extract PDF transcripts and compile wiki structure.
-"""
 from pypdf import PdfReader
 import os
 import re
