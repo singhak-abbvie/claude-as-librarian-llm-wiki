@@ -29,6 +29,15 @@ The magic is in `CLAUDE.md` — a "vault schema" that defines exactly how Claude
 ❓ **Query** — Ask questions, get cited answers  
 🔬 **Lint** — Audit for contradictions & gaps
 
+**Why Obsidian?** The wiki is just plain markdown files — and Obsidian is the perfect IDE for browsing it:
+• `[[wikilinks]]` for instant navigation between articles
+• **Graph view** to visualize how concepts connect
+• **Local-first** — your data stays on your machine
+• **Git-friendly** — version control and collaboration built-in
+• **Web Clipper** extension to capture sources directly into `raw/`
+
+I have Claude making edits on one side and Obsidian's graph view on the other, watching connections form in real-time.
+
 🔗 **Karpathy's original concept:** https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 
 🔗 **My implementation:** https://github.com/singhak-abbvie/claude-as-librarian-llm-wiki
@@ -62,6 +71,8 @@ The magic is in CLAUDE.md — a "vault schema" defining how Claude behaves as li
 🔍 Research — Claude finds web sources
 ❓ Query — Ask questions, get cited answers
 🔬 Lint — Audit for contradictions
+
+Why Obsidian? Plain markdown + [[wikilinks]] + graph view to watch connections form. Local-first, git-friendly, and the Web Clipper extension makes capturing sources effortless.
 
 🔗 Karpathy's concept: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 
