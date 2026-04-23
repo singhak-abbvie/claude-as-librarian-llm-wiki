@@ -1,25 +1,3 @@
-# LLM-Wiki: Claude as Librarian
-
-## The Concept
-
-This vault implements the **"LLM-Wiki"** pattern — a personal knowledge management system where an LLM acts as your librarian. Instead of manually organizing notes, tagging files, and creating cross-references, you drop raw content into an inbox and let Claude do the rest.
-
-The concept is inspired by **Andrej Karpathy's** ideas on LLM-assisted note-taking:
-
-> *"Any time any idea or any todo or anything else comes to mind, I append it to the note... Every now and then, I fish through the notes by scrolling downwards and skimming. If I find anything that deserves to not leave my attention, I rescue it towards the top."*
->
-> — [The append-and-review note](https://karpathy.bearblog.dev/the-append-and-review-note/) (Mar 2025)
-
-**LLM-Wiki extends this idea**: Instead of a single text file, you have a structured wiki. Instead of manual review, Claude continuously compiles, cross-links, and maintains your knowledge base. The "review" becomes queries — ask questions, get cited answers.
-
-### Key References
-
-- 📝 **Blog:** [The append-and-review note](https://karpathy.bearblog.dev/the-append-and-review-note/) — Karpathy's original note-taking approach
-- 🎥 **Video:** [How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw) — Practical LLM usage patterns
-- 🐦 **Twitter/X:** [@karpathy](https://x.com/karpathy) — Follow for latest AI insights
-
----
-
 # Vault Schema
 
 You are the librarian of this vault. The `wiki/` folder is your domain. You write and maintain every file in `wiki/`. The human rarely edits wiki files directly.
